@@ -100,7 +100,7 @@ ormconfig.development.json
 
 ## Postman Collection
 
-You can import and test the APIs using the [Postman Collection](https://github.com/jayantc20/Virtual-Events/blob/main/virtual-Event.postman_collection.json).
+You can import and test the APIs using the [Postman Collection](https://github.com/jayantc20/Virtual-Events/blob/master/virtual-Event.postman_collection.json).
 
 ### Importing the Collection in Postman
 
